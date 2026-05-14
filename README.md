@@ -1,12 +1,5 @@
 ## Hi there 👋
-
-<!--
-**achariharan07-hacker/achariharan07-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning# 👋 Hey, I'm Hari
+👋 Hey, I'm Hari
 
 ### 🚀 Computer Science | Aspiring Red Team Operator | AI‑Augmented Pentester
 
@@ -24,7 +17,7 @@ Here are some ideas to get you started:
 ## ⚒️ Skills & Tools
 - **Pentesting Tools:** SQLmap, John, Hydra, Burp Suite Pro, Caido, Nmap, Nikto, Harvester, Msfvenom, Metasploit, Wireshark
 - **AI‑Driven Security:** TGPT, SGPT, Penligent, Ollama
-- **Programming:** Python (CLI tools, automation scripts)
+- **Programming:** Python ,C ,C++,BASH SCRIPTING (CLI tools, automation scripts)
 - **Specialties:** IDOR exploitation, proxy interception, OPSEC workflows
 
 ---
@@ -50,10 +43,5 @@ Here are some ideas to get you started:
 
 > ⚡ *“Breaking systems to build stronger ones.”*
  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on : CTF teams 
+  
