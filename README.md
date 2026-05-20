@@ -1,7 +1,7 @@
 ## Hi there 👋
 👋 Hey, I'm Hari
 
-### 🚀 Computer Science | Aspiring Red Team Operator | AI‑Augmented Pentester
+ Aspiring Red Team Operator | AI‑Augmented Pentester
 
 ---
 
