@@ -24,7 +24,7 @@
 
 ## 🏆 Achievements
 - ✅ 80+ verified skills on **Credly** https://www.credly.com/users/hari-haran.7131f052
-- 💰 Earned ₹1500 from a **security auditing freelance task**
+- 💰 Earned vulnerability disclosure rewards via freelance penetration testing projects.
 - 📚 Growing portfolio of **labs, writeups, and bug bounty reports**
   
 
