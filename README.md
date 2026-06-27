@@ -38,6 +38,7 @@ Adversarial thinking & red team strategy || Cybersecurity labs || CTF competitio
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/a-c-hariharan-676242382)
 -  [MEDIUM](https://medium.com/@achariharan07/cybersecurity-ai-augmented-pentesting-hariharan-95dcac7ec0f2)
+-  https://hashnode.com/@bgdhdf
 ---
 
 > ⚡ Breaking systems to build stronger ones.
