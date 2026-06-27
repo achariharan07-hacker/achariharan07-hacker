@@ -1,7 +1,7 @@
 ## Hi there 👋
 👋 Hey, I'm Hari
 
-** Aspiring Red Team Operator | AI‑Augmented Pentester**
+** Aspiring Red Team Operator | AI‑Augmented Ethical-Hacker**
 
 ---
 
@@ -17,8 +17,8 @@
 ## ⚒️ Skills & Tools
 - **Pentesting Tools:** SQLmap, John, Hydra, Burp Suite Pro, Caido, Nmap, Nikto, Harvester , Msfvenom , Metasploit , Wireshark , spider-foot , sherlock , ffuz , OWASP zap 
 - **AI‑Driven Security:** TGPT, SGPT, Penligent, Ollama
-- **Programming:** Python ,C ,C++,BASH SCRIPTING (CLI tools, automation scripts)
-- **Specialties:**  OPSEC workflows , Bug bounty hunting , vulnerability research 
+- **Programming:** Rust, Python ,C ,C++,BASH SCRIPTING (CLI tools, automation scripts)
+- **Specialties:**  OPSEC workflows || Bug bounty hunting || vulnerability research|| OSINT Analyst | Digital Sleuth ||
 
 ---
 
@@ -31,9 +31,7 @@
 ---
 
 ## 🎨 Interests
-- 🔒 Anonymity & OPSEC practice
-- 🤖 AI‑augmented pentesting automation
-- BUG Bounty
+Adversarial thinking & red team strategy || Cybersecurity labs || CTF competitions || Penetration Testing 
   
 ---
 
@@ -44,5 +42,4 @@
 
 > ⚡ Breaking systems to build stronger ones.
  ...
-- 👯 I’m looking to collaborate on : CTF teams 
   
